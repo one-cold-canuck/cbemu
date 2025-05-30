@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/onecoldcanuck/localprojects/cbemu",
+  "command": "/usr/bin/c++  -g -std=gnu++17 -o code/cbemu -c /home/onecoldcanuck/localprojects/cbemu/code/cbemu.cpp",
+  "file": "/home/onecoldcanuck/localprojects/cbemu/code/cbemu.cpp",
+  "output": "CMakeFiles/cbemu_test.dir/code/cpu.cpp.o"
+}
+]
